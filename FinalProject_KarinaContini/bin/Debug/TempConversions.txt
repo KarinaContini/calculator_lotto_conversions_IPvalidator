@@ -1,0 +1,2 @@
+40 °C = 104 °F,	4/18/2023 5:44:45 AM,  Hot Bath
+0 °C = 32 °F,	4/18/2023 5:44:57 AM,  Freezing point of water
